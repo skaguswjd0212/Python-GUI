@@ -6,6 +6,15 @@ Users can draw directly within the program while ensuring they don’t miss impo
 Additionally, the program eliminates the need to open a separate notepad to memo ideas, streamlining these three functions into a single, convenient platform.
 
 
+![1](https://github.com/user-attachments/assets/d59d0be9-9b53-43f4-a98a-d56562f1a1cb)
+
+![2](https://github.com/user-attachments/assets/d1368f10-3785-44bd-98eb-62496d3a6ec0)
+
+![3](https://github.com/user-attachments/assets/ebd652eb-85b2-417a-b338-6219085c9a7c)
+
+
+
+
 ### 제안 기능 목록
 
 | 순번 | 기능                           | 설명                                                                                                                                                                                                                                                                                                                                                                                                       |
